@@ -32,7 +32,7 @@ A weekly deep-dive into creating robust, real-world software blueprints by lever
 
 For both DSA and OOPs challenges, the implementation workflow ensures high-quality submissions:
 1. **Analysis:** Reviewing constraints, edge cases, and architectural requirements.
-2. **Optimization:** Targeting ideal Time and Space complexities ($O(1)$, $O(N)$, or O(\log N)).
+2. **Optimization:** Targeting ideal Time and Space complexities ($O(1)$, $O(N)$, or O(log N)).
 3. **Design Patterns:** Applying clean, modular, and dry (Don't Repeat Yourself) code structures for weekly OOPs tasks.
 
 ---
