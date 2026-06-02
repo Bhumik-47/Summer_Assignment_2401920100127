@@ -37,10 +37,3 @@ For both DSA and OOPs challenges, the implementation workflow ensures high-quali
 
 ---
 
-## 🚀 Getting Started
-
-To explore or run the code locally:
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
