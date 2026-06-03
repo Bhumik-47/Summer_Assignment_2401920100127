@@ -22,12 +22,12 @@ public:
     int maxWater = 0;
 
     while (left < right) {
-        // Calculate current area
+       
         int w = right - left;
         int h = min(height[left], height[right]);
         maxWater = max(maxWater, w * h);
 
-        // Move the shorter line pointer
+        
         if (height[left] < height[right]) {
             left++;
         } else {
